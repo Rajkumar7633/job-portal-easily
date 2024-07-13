@@ -25,6 +25,8 @@ This is a simple guide on how to run a Node.js project. Please follow the instru
 ### The server should now be running. You can access the application by opening a web browser and entering the following URL:
 
 **http://localhost:3200**
+or
+**https://job-portal-easily.onrender.com**
 
 ## Additional Notes
 
